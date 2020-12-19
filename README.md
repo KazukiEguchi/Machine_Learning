@@ -1,2 +1,4 @@
 # Machine_Learning
 スキルアップAIのインターン
+
+完成のファイルはcomplete_work_EguchiKazuki.ipynbです。
